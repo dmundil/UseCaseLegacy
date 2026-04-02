@@ -1,0 +1,30 @@
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Neuer Ordner\Masterarbeit\Use Cases\RPA Anwendung Challenge 2\AnyTeller\bin\Debug\net10.0-windows\AnyTeller.exe
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Neuer Ordner\Masterarbeit\Use Cases\RPA Anwendung Challenge 2\AnyTeller\bin\Debug\net10.0-windows\AnyTeller.deps.json
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Neuer Ordner\Masterarbeit\Use Cases\RPA Anwendung Challenge 2\AnyTeller\bin\Debug\net10.0-windows\AnyTeller.runtimeconfig.json
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Neuer Ordner\Masterarbeit\Use Cases\RPA Anwendung Challenge 2\AnyTeller\bin\Debug\net10.0-windows\AnyTeller.dll
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Neuer Ordner\Masterarbeit\Use Cases\RPA Anwendung Challenge 2\AnyTeller\bin\Debug\net10.0-windows\AnyTeller.pdb
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Neuer Ordner\Masterarbeit\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\AnyTeller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Neuer Ordner\Masterarbeit\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\AnyTeller.AssemblyInfoInputs.cache
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Neuer Ordner\Masterarbeit\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\AnyTeller.AssemblyInfo.cs
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Neuer Ordner\Masterarbeit\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\AnyTeller.csproj.CoreCompileInputs.cache
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Neuer Ordner\Masterarbeit\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\AnyTeller.dll
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Neuer Ordner\Masterarbeit\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\refint\AnyTeller.dll
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Neuer Ordner\Masterarbeit\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\AnyTeller.pdb
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Neuer Ordner\Masterarbeit\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\AnyTeller.genruntimeconfig.cache
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Neuer Ordner\Masterarbeit\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\ref\AnyTeller.dll
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Neuer Ordner\Masterarbeit\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\AnyTeller.sourcelink.json
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Use Cases\RPA Anwendung Challenge 2\AnyTeller\bin\Debug\net10.0-windows\AnyTeller.exe
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Use Cases\RPA Anwendung Challenge 2\AnyTeller\bin\Debug\net10.0-windows\AnyTeller.deps.json
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Use Cases\RPA Anwendung Challenge 2\AnyTeller\bin\Debug\net10.0-windows\AnyTeller.runtimeconfig.json
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Use Cases\RPA Anwendung Challenge 2\AnyTeller\bin\Debug\net10.0-windows\AnyTeller.dll
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Use Cases\RPA Anwendung Challenge 2\AnyTeller\bin\Debug\net10.0-windows\AnyTeller.pdb
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\AnyTeller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\AnyTeller.AssemblyInfoInputs.cache
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\AnyTeller.AssemblyInfo.cs
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\AnyTeller.csproj.CoreCompileInputs.cache
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\AnyTeller.sourcelink.json
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\AnyTeller.dll
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\refint\AnyTeller.dll
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\AnyTeller.pdb
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\AnyTeller.genruntimeconfig.cache
+C:\Users\Domim\iCloudDrive\Master WIWI\4. Semester\Use Cases\RPA Anwendung Challenge 2\AnyTeller\obj\Debug\net10.0-windows\ref\AnyTeller.dll
